@@ -1,0 +1,9 @@
+
+{
+  "name": "Sentiment Compass",
+  "description": "A high-fidelity multilingual sentiment analysis engine designed to bridge the gap between manual audits and real-time social streams.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
